@@ -1,4 +1,4 @@
-# Svelte template with Tailwind CSS
+# Svelte
 
 <br>
 
